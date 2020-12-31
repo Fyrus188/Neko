@@ -15,13 +15,13 @@ const menu = require("./lib/menu.js")
 
 const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
-const BotName = '*_NEKO BOT_*'; 
+const BotName = '*_SASHA BOT_*'; 
 const instagram = '(ComingSoon)'; 
 const aktif = 'Ya Kalo Gk Delay Aku On Nin';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:NEKO\n' // Nama kamu
-            + 'ORG:_NEKO BOT_;\n' // Nama bot
+            + 'ORG:_SASHA BOT_;\n' // Nama bot
             + 'TEL;type=CELL;type=VOICE;waid=62895623482288:+62 895-6234-82288 \n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
